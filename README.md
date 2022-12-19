@@ -19,7 +19,7 @@ How to run?
 
      # pip install BeautifulSoup
 
-Then run <b><i>price _comparision</i></b> file step by step. 
+Then run <b><i>price _comparison</i></b> file step by step. 
 
 	It will give current price of product on amazon and flipkart. And it will also display on which platform price is less with product link to buy.
 
