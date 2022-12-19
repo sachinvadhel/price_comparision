@@ -1,4 +1,4 @@
-# price_comparision
+# price_comparison
 Name : vadhel sachin arvindbhai
 Enrollment number : 122020069
 Aim : 
